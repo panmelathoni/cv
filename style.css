@@ -1,0 +1,146 @@
+@import url('https://fonts.googleapis.com/css?family=Sacramento&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,400i&display=swap');
+
+
+
+
+body {
+    margin: 0;
+    text-align: center;
+    background-color: #e4f9f5;
+    ;
+    
+}
+
+h1 {
+    font-size: 5.625rem;
+    line-height: 2;
+    font-family: 'Sacramento', cursive;
+    color: #66BFBF;
+}
+
+h2 {
+    font-size: 2.9rem;
+    font-family: 'Montserrat', sans-serif;
+    color: #66BFBF;
+    font-weight: normal;
+}
+
+h3 {
+    font-size:1.9rem ;
+    color: #11999e;
+
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #40514E;
+    font-size: 1.6rem;
+}
+
+hr {
+    border: 2px dashed rgba(92, 110, 107, .1) ;
+    width: 50px;
+    margin: 0 auto;
+}
+
+.top-container h2 {
+    margin-top: -93px;
+
+}
+
+.foto-perfil {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    margin-top: 50px;
+    border: 2px solid #66BFBF;
+    ;
+}
+
+.top-container {
+    position: relative;
+    padding-top: 100px;
+    background-color: #e4f9f5;
+}
+
+.middle-container p {
+    text-align: center;
+}
+
+
+
+
+.top-cloud {
+    position: absolute;
+    right: 300px;
+    top: 50px;
+
+
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+
+.skill-row {
+    margin: 0 auto;
+    bottom: 100px;
+    top: 100px;
+    width: 50%;
+    text-align: left;
+    line-height: 2;
+
+ 
+}
+
+.computer-img {
+    float: left;
+    width: 25%;
+    margin-right: 30px;
+}
+
+.coffee-img {
+    float: right;
+    width: 25%;
+    margin-left: 30px;
+    
+}
+
+.bttn {
+    width: 150px;
+    height: 40px;
+    background-color: #66BFBF;
+    border: 5px solid transparent;
+    color: #40514E;
+    border-radius: 10px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+
+.bottom-container  {
+    
+    margin-top: 90px;
+    background-color: #66BFBF;
+    width: 100%;
+    height: 146px;
+}
+
+.bottom-container p {
+    margin: 100px auto 50px auto ;
+    color: #EAF6F6;
+    font-size: .8rem;
+}
+
+.bottom-container .footer-link {
+    
+    color: #11999E;
+    text-align: center;
+    font-size: 1.4rem;
+    text-decoration: none;
+
+}
+

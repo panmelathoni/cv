@@ -1,0 +1,60 @@
+[data-component="bottom-call-to-action-box"] {
+    display: none;
+}
+
+[data-component="position-center"] > div {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+[data-component="global-sign-in"] {
+    min-height: initial;
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+
+[data-component="two-panel-template"] {
+    height: initial;
+    padding: 90px 1px 0px 1px;
+}
+
+[data-component="two-panel-template"] > div {
+    min-height: revert;
+}
+
+[data-component="enterprise-panel-wrapper"] {
+    height: initial;
+}
+
+[class$="emymnoe1"] {
+    padding-bottom: 10px;
+}
+
+[data-component="no-panel-wrapper"] {
+    height: initial;
+}
+
+* {
+    -webkit-user-drag: none;
+    user-drag: none;
+}
+
+body {
+    -webkit-user-select: none;
+}
+
+[data-component="sign-up-panel-switch"] {
+    display: none;
+}
+
+[data-webview-selector-image-hide-on-mobile="true"] {
+    display: none;
+}
+
+[data-component="create-team-panel-switch"] {
+    display: none;
+}
+
+[data-component="team-footer"] {
+    display: none;
+}
